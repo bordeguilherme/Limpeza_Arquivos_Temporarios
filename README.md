@@ -22,7 +22,7 @@ Esta documentação explica o uso de dois scripts de automação desenvolvidos p
   <h2>Resumo do Projeto</h2>
   <p>Este projeto inclui dois scripts: um para limpar arquivos temporários locais e outro para arquivos temporários da raiz do Windows. Os scripts foram convertidos em arquivos executáveis (.exe) – Aplicativos – para que possam ser usados sem a necessidade de Python instalado na máquina.</p>
 
-  <h2>Como instalar o script na máquina</h2>
+  <h2>Como instalar os scripts na máquina</h2>
   
   <h3>Verificar qual o tipo de sistema do computador:</h3>
   <li>Sabendo a versão do Windows é agora necessário verificar qual o tipo de sistema da máquina. Para isso vá para Menu Iniciar > Configurações > Sistema > Sobre e verifique se o sistema é de 32 ou 64 bits. </li>
@@ -30,13 +30,13 @@ Esta documentação explica o uso de dois scripts de automação desenvolvidos p
   <h3>Abrir a pasta correspondente ao seu tipo de sistema:</h3>
   <li>Repare que temos 4 pastas, pastas para Windows 7 (32 e 64 bits) e Windows 10 e 11 (32 e 64 bits). Abra a pasta correspondente ao seu sistema.</li>
 
-  <h3>Copiar o executável do script e Limpeza Arquivos Temporários da Pasta Raiz do Windows:</h3>
+  <h3>Copiar o executável do script de Limpeza Arquivos Temporários da Pasta Raiz do Windows:</h3>
   <li>Primeiro copie apenas o “Limpeza de Arquivos Temporários (Administrador)”, e identifique o perfil administrativo para colar em sua área de trabalho. Após isso vá para Explorador de Arquivos > Meu computador > Disco Local > Usuários > [Perfil Administrador] > Área de Trabalho > Ctrl+V. </li>
 
-  <h3>Copiar o executável do script e Limpeza Arquivos Temporários Locais (do Usuário):</h3>
+  <h3>Copiar o executável do script de Limpeza Arquivos Temporários Locais (do Usuário):</h3>
   <li>Agora copie o arquivo “Limpeza de Arquivos Temporários Locais (Usuários)” e essa no caso deve ficar na Área de Trabalho Pública, ou seja, na que Área de Trabalho que aparece para todos os usuários, para que todos possam fazer a limpeza de seus respectivos perfis. Antes de passar o novo passo a passo, na parte superior do explorador de arquivos clique em “Exibir” e, se não estiver marcada, marque a caixa que diz “Itens ocultos”. Agora vá: Explorador de Arquivos > Meu computador > Disco Local > Usuários > Público > Área de Trabalho Pública > Ctrl+V.</li>
 
-   <h2>Como usar o script na máquina</h2>
+   <h2>Como usar os scripts na máquina</h2>
   
   <h3>Executar o Arquivo:</h3>
   <li>No perfil administrativo, localize o arquivo Limpeza de Arquivos Temporários (Administrador).exe na Área de Trabalho. </li>
