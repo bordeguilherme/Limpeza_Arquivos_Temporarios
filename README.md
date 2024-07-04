@@ -1,0 +1,1 @@
+# Limpeza_Arquivos_Temporarios
