@@ -61,5 +61,5 @@ Esta documentação explica o uso de dois scripts de automação desenvolvidos p
 
 <h2>Autor</h2>  
 <div align="center">
-<a href="https://github.com/bordeguilherme">Gulherme Borde</a>
+<a href="https://github.com/bordeguilherme">Guilherme Borde</a>
   </div>
